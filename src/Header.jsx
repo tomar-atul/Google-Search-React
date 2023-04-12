@@ -4,10 +4,10 @@ const Header = () => {
   return (
     <div className='header'>
       <div>
-        <a href='/'>Gmail</a>
+        <a href='https://mail.google.com/mail/'>Gmail</a>
       </div>
       <div>
-        <a href='/'>Images</a>
+        <a href='https://www.google.co.in/imghp?hl=en/'>Images</a>
       </div>
       <div className='nine-dots'>
         <svg className='gb_Ae' focusable='false' viewBox='0 0 24 24'>
